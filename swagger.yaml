@@ -4,7 +4,7 @@ info:
   contact: {}
   version: '1.0'
 servers:
-  - url: https://temp-jobs-api-g5kr.onrender.com/api/v1
+  - url: https://temp-jobs-api-m16q.onrender.com/api/v1
     variables: {}
 paths:
   /auth/register:
